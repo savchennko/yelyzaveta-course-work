@@ -1,0 +1,29 @@
+Service Acronis Active Protection (TM) Service was set to mode Auto at 14-01-19: 09-10-24
+Service Acronis Active Protection (TM) Service was set to mode Manual at 14-01-19: 09-10-24
+Service Acronis Scheduler2 Service was set to mode Disabled at 14-01-19: 09-10-24
+Service Acronis Active Protection (TM) Service was set to mode Manual at 14-01-19: 09-10-24
+Service Acronis Scheduler2 Service was set to mode Disabled at 14-01-19: 09-10-24
+Service Acronis Active Protection (TM) Service was set to mode Auto at 14-01-19: 09-10-28
+Service Acronis Active Protection (TM) Service was set to mode Manual at 14-01-19: 09-10-30
+Service Acronis Scheduler2 Service was set to mode Disabled at 14-01-19: 09-10-30
+Service Acronis Active Protection (TM) Service was set to mode Manual at 14-01-19: 09-10-30
+Service Acronis Scheduler2 Service was set to mode Disabled at 14-01-19: 09-10-30
+Service Acronis Active Protection (TM) Service was Disabled at 14-01-19: 09-10-30
+Service Acronis Active Protection (TM) Service was set to mode Manual at 14-01-19: 09-10-31
+Service Acronis Scheduler2 Service was set to mode Disabled at 14-01-19: 09-10-31
+Service Acronis Active Protection (TM) Service was set to mode Manual at 14-01-19: 09-10-31
+Service Acronis Scheduler2 Service was set to mode Disabled at 14-01-19: 09-10-31
+Service Acronis Active Protection (TM) Service was Ebabled at 14-01-19: 09-10-31
+Service Acronis Active Protection (TM) Service was set to mode Auto at 14-01-19: 09-10-32
+Service Adobe Acrobat Update Service was set to mode Auto at 02-12-22: 08-41-58
+Service Adobe Acrobat Update Service was set to mode Manual at 02-12-22: 08-41-58
+Service AllJoyn Router Service was set to mode Disabled at 02-12-22: 08-41-58
+Service Adobe Acrobat Update Service was set to mode Manual at 02-12-22: 08-41-58
+Service AllJoyn Router Service was set to mode Disabled at 02-12-22: 08-41-58
+Service Adobe Acrobat Update Service was set to mode Manual at 02-12-22: 08-42-00
+Service AllJoyn Router Service was set to mode Disabled at 02-12-22: 08-42-00
+Service Windows Audio Endpoint Builder was set to mode Auto at 02-12-22: 08-42-02
+Service ActiveX Installer (AxInstSV) was set to mode Auto at 02-12-22: 08-42-13
+Service Adobe Acrobat Update Service was set to mode Manual at 02-12-22: 08-42-13
+Service AllJoyn Router Service was set to mode Disabled at 02-12-22: 08-42-13
+Service ActiveX Installer (AxInstSV) was set to mode Auto at 02-12-22: 08-42-18
